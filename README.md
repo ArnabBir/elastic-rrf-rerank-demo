@@ -2,6 +2,13 @@
 
 Hybrid search on Elasticsearch: BM25 + kNN vectors, fused with RRF, then reranked. Built for running retrieval experiments and comparing systems (BM25, kNN, hybrid, hybrid+rerank).
 
+## Related Blog Post
+
+For a deep dive into the architecture, technical tradeoffs, and experimental results of this project, check out the full article on Substack.
+**[Hybrid Search Done Right on Elastic: BM25 + Vector kNN + RRF + Reranking](https://arnabbir.substack.com/p/hybrid-search-done-right-on-elastic)**
+
+*This project was submitted as part of the [Elastic Blogathon](https://events.elastic.co/blogathon?utm_source=invite&utm_medium=email&utm_campaign=hackerearth-rm).*
+
 ## Setup
 
 ```bash
