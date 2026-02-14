@@ -1,0 +1,15 @@
+{"query_id": "Q001", "query": "I forgot my password", "intent": "password reset"}
+{"query_id": "Q002", "query": "turn on 2fa", "intent": "two factor auth setup"}
+{"query_id": "Q003", "query": "how to rotate api key without downtime", "intent": "api key rotation"}
+{"query_id": "Q004", "query": "download billing invoice", "intent": "invoice download"}
+{"query_id": "Q005", "query": "webhook not delivering", "intent": "webhook troubleshooting"}
+{"query_id": "Q006", "query": "hybrid search rrf formula", "intent": "rrf explanation"}
+{"query_id": "Q007", "query": "vector search model selection", "intent": "embedding model choice"}
+{"query_id": "Q008", "query": "chunking for rag", "intent": "rag chunking strategy"}
+{"query_id": "Q009", "query": "reduce ai search latency p95", "intent": "latency budgeting"}
+{"query_id": "Q010", "query": "bm25 fails on paraphrases", "intent": "bm25 limitations"}
+{"query_id": "Q011", "query": "vector only fails on error codes", "intent": "vector limitations"}
+{"query_id": "Q012", "query": "filter docs by version", "intent": "version-aware retrieval"}
+{"query_id": "Q013", "query": "topk candidate size tuning knn", "intent": "knn tuning"}
+{"query_id": "Q014", "query": "semantic search for similar incidents", "intent": "observability use case"}
+{"query_id": "Q015", "query": "rerank top results with cross encoder", "intent": "reranking"}

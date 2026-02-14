@@ -1,0 +1,13 @@
+[2026-02-14 00:57:37] Started
+[2026-02-14 01:01:56] Progress: 68/750 (9%) — last: Q000068
+[2026-02-14 01:06:48] Progress: 143/750 (19%) — last: Q000143
+[2026-02-14 01:11:53] Progress: 218/750 (29%) — last: Q000218
+[2026-02-14 01:17:47] Progress: 293/750 (39%) — last: Q000293
+[2026-02-14 01:23:42] Progress: 368/750 (49%) — last: Q000368
+[2026-02-14 01:29:02] Progress: 443/750 (59%) — last: Q000443
+[2026-02-14 01:34:26] Progress: 518/750 (69%) — last: Q000518
+[2026-02-14 01:40:03] Progress: 593/750 (79%) — last: Q000593
+[2026-02-14 01:45:23] Progress: 668/750 (89%) — last: Q000668
+[2026-02-14 01:50:56] Progress: 743/750 (99%) — last: Q000743
+[2026-02-14 01:51:28] Progress: 750/750 (100%) — last: Q000750
+[2026-02-14 01:51:28] Done. 750 queries in /Users/arnab.bir/Documents/GitHub/elastic-rrf-rerank-demo/reports/data_large_c10fcdee. Run 05_compute_metrics.py for metrics.

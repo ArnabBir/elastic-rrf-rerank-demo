@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# Reports
+reports/*.png
+reports/*.pdf
+
+# Local IDE
+.vscode/
+.idea/

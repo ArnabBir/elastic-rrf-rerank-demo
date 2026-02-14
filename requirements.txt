@@ -1,0 +1,12 @@
+# Pin to 8.x for Elasticsearch 8.12.2 compatibility (client 9.x sends compatible-with=9)
+elasticsearch>=8.10.0,<9.0.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+
+# Optional (for local embedding + reranking)
+sentence-transformers>=2.6.0
+torch>=2.1.0

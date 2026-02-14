@@ -1,0 +1,14 @@
+[2026-02-14 00:09:54] Started
+[2026-02-14 00:11:40] Started
+[2026-02-14 00:12:44] Started
+[2026-02-14 00:12:59] Progress: 2/15 (13%) — last: Q002
+[2026-02-14 00:13:06] Progress: 4/15 (26%) — last: Q004
+[2026-02-14 00:13:13] Progress: 6/15 (40%) — last: Q006
+[2026-02-14 00:13:20] Progress: 8/15 (53%) — last: Q008
+[2026-02-14 00:13:27] Progress: 10/15 (66%) — last: Q010
+[2026-02-14 00:13:34] Progress: 12/15 (80%) — last: Q012
+[2026-02-14 00:13:40] Progress: 14/15 (93%) — last: Q014
+[2026-02-14 00:13:44] Progress: 15/15 (100%) — last: Q015
+[2026-02-14 00:13:44] Done. 15 queries in /Users/arnab.bir/Documents/GitHub/elastic-rrf-rerank-demo/reports/data_lite_4bd36c3b. Run 04b_compute_metrics.py for metrics.
+[2026-02-14 13:00:51] Started
+[2026-02-14 13:00:51] All 15 queries already completed. Run 05_compute_metrics.py for final metrics.

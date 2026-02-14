@@ -1,0 +1,750 @@
+{"query_id": "Q000001", "query": "How do I reset embeddings in VectorMart?", "intent": "howto"}
+{"query_id": "Q000002", "query": "Error VEC-109 when trying to use embedding model selection", "intent": "error"}
+{"query_id": "Q000003", "query": "sentence transformer VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000004", "query": "How do I set up ranking boosts in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000005", "query": "field boosts issue SRCH-409", "intent": "error"}
+{"query_id": "Q000006", "query": "field boosts guide", "intent": "keywords"}
+{"query_id": "Q000007", "query": "How do I enable scoped keys in SecureStack?", "intent": "howto"}
+{"query_id": "Q000008", "query": "SEC-401 least privilege failing", "intent": "error"}
+{"query_id": "Q000009", "query": "scoped keys faq", "intent": "keywords"}
+{"query_id": "Q000010", "query": "Help: semantic + lexical on the mobile app", "intent": "howto"}
+{"query_id": "Q000011", "query": "Error VEC-601 when trying to use semantic + lexical", "intent": "error"}
+{"query_id": "Q000012", "query": "hybrid RAG retrieval faq", "intent": "keywords"}
+{"query_id": "Q000013", "query": "Help: detect suspicious activity on the API", "intent": "howto"}
+{"query_id": "Q000014", "query": "anomaly issue SEC-509", "intent": "error"}
+{"query_id": "Q000015", "query": "detect suspicious activity steps", "intent": "keywords"}
+{"query_id": "Q000016", "query": "Help: forgot password on the mobile app", "intent": "howto"}
+{"query_id": "Q000017", "query": "reset password issue AUTH-102", "intent": "error"}
+{"query_id": "Q000018", "query": "reset password workflow", "intent": "keywords"}
+{"query_id": "Q000019", "query": "How do I troubleshoot recency boost in SearchOps?", "intent": "howto"}
+{"query_id": "Q000020", "query": "Error SRCH-401 when trying to enable ranking boosts", "intent": "error"}
+{"query_id": "Q000021", "query": "field boosts steps", "intent": "keywords"}
+{"query_id": "Q000022", "query": "Help: tracing basics on the web app", "intent": "howto"}
+{"query_id": "Q000023", "query": "distributed tracing issue OBS-301", "intent": "error"}
+{"query_id": "Q000024", "query": "span AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000025", "query": "Help: subscription cancellation on the API", "intent": "howto"}
+{"query_id": "Q000026", "query": "Error BILL-318 when trying to use downgrade", "intent": "error"}
+{"query_id": "Q000027", "query": "subscription cancellation steps", "intent": "keywords"}
+{"query_id": "Q000028", "query": "How do I fix 2FA in LogLens?", "intent": "howto"}
+{"query_id": "Q000029", "query": "AUTH-207 2FA failing", "intent": "error"}
+{"query_id": "Q000030", "query": "MFA guide", "intent": "keywords"}
+{"query_id": "Q000031", "query": "session timeout setup steps for AcmeCloud v1", "intent": "howto"}
+{"query_id": "Q000032", "query": "Error AUTH-607 when trying to use session timeout", "intent": "error"}
+{"query_id": "Q000033", "query": "session timeout steps", "intent": "keywords"}
+{"query_id": "Q000034", "query": "Help: synonym mapping on the API", "intent": "howto"}
+{"query_id": "Q000035", "query": "Error SRCH-209 when trying to run synonyms", "intent": "error"}
+{"query_id": "Q000036", "query": "synonyms guide", "intent": "keywords"}
+{"query_id": "Q000037", "query": "re-rank setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000038", "query": "re-rank issue VEC-501", "intent": "error"}
+{"query_id": "Q000039", "query": "re-rank AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000040", "query": "typo tolerance setup steps for SearchOps v1", "intent": "howto"}
+{"query_id": "Q000041", "query": "fuzzy search issue SRCH-301", "intent": "error"}
+{"query_id": "Q000042", "query": "fuzzy search steps", "intent": "keywords"}
+{"query_id": "Q000043", "query": "Help: downgrade on the CLI", "intent": "howto"}
+{"query_id": "Q000044", "query": "cancel plan issue BILL-301", "intent": "error"}
+{"query_id": "Q000045", "query": "subscription cancellation VectorMart v2", "intent": "keywords"}
+{"query_id": "Q000046", "query": "How do I reset typo tolerance in SecureStack?", "intent": "howto"}
+{"query_id": "Q000047", "query": "SRCH-309 fuzziness and typos failing", "intent": "error"}
+{"query_id": "Q000048", "query": "typo tolerance SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000049", "query": "How do I reset re-rank in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000050", "query": "VEC-501 cross-encoder failing", "intent": "error"}
+{"query_id": "Q000051", "query": "cross-encoder AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000052", "query": "Help: least privilege on the mobile app", "intent": "howto"}
+{"query_id": "Q000053", "query": "Error SEC-401 when trying to use least privilege", "intent": "error"}
+{"query_id": "Q000054", "query": "least privilege steps", "intent": "keywords"}
+{"query_id": "Q000055", "query": "Help: HTTP 429 on the mobile app", "intent": "howto"}
+{"query_id": "Q000056", "query": "Error API-429 when trying to run too many requests", "intent": "error"}
+{"query_id": "Q000057", "query": "rate limiting faq", "intent": "keywords"}
+{"query_id": "Q000058", "query": "How do I configure SSO login in SearchOps?", "intent": "howto"}
+{"query_id": "Q000059", "query": "SSO login issue AUTH-418", "intent": "error"}
+{"query_id": "Q000060", "query": "single sign-on steps", "intent": "keywords"}
+{"query_id": "Q000061", "query": "Help: MRR on the CLI", "intent": "howto"}
+{"query_id": "Q000062", "query": "SRCH-609 MRR failing", "intent": "error"}
+{"query_id": "Q000063", "query": "NDCG workflow", "intent": "keywords"}
+{"query_id": "Q000064", "query": "SLO setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000065", "query": "OBS-509 latency budgeting failing", "intent": "error"}
+{"query_id": "Q000066", "query": "latency budgeting troubleshooting", "intent": "keywords"}
+{"query_id": "Q000067", "query": "Help: suspicious login on the mobile app", "intent": "howto"}
+{"query_id": "Q000068", "query": "Error SEC-501 when trying to configure detect suspicious activity", "intent": "error"}
+{"query_id": "Q000069", "query": "suspicious login best practices", "intent": "keywords"}
+{"query_id": "Q000070", "query": "How do I troubleshoot field boosts in LogLens?", "intent": "howto"}
+{"query_id": "Q000071", "query": "Error SRCH-409 when trying to enable recency boost", "intent": "error"}
+{"query_id": "Q000072", "query": "field boosts best practices", "intent": "keywords"}
+{"query_id": "Q000073", "query": "pagination setup steps for VectorMart v1", "intent": "howto"}
+{"query_id": "Q000074", "query": "Error API-801 when trying to enable page token", "intent": "error"}
+{"query_id": "Q000075", "query": "pagination best practices", "intent": "keywords"}
+{"query_id": "Q000076", "query": "Help: SLO on the CLI", "intent": "howto"}
+{"query_id": "Q000077", "query": "OBS-509 latency budgeting failing", "intent": "error"}
+{"query_id": "Q000078", "query": "SLO LogLens v1", "intent": "keywords"}
+{"query_id": "Q000079", "query": "Kibana dashboards setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000080", "query": "OBS-601 Kibana dashboards failing", "intent": "error"}
+{"query_id": "Q000081", "query": "Kibana dashboards workflow", "intent": "keywords"}
+{"query_id": "Q000082", "query": "How do I set up int8 in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000083", "query": "quantization issue VEC-409", "intent": "error"}
+{"query_id": "Q000084", "query": "quantization troubleshooting", "intent": "keywords"}
+{"query_id": "Q000085", "query": "query expansion setup steps for SearchOps v2", "intent": "howto"}
+{"query_id": "Q000086", "query": "Error SRCH-209 when trying to run synonym mapping", "intent": "error"}
+{"query_id": "Q000087", "query": "synonym mapping SearchOps v2", "intent": "keywords"}
+{"query_id": "Q000088", "query": "embeddings setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000089", "query": "embeddings issue VEC-101", "intent": "error"}
+{"query_id": "Q000090", "query": "sentence transformer SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000091", "query": "audit logs setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000092", "query": "SEC-309 audit logging failing", "intent": "error"}
+{"query_id": "Q000093", "query": "audit logging workflow", "intent": "keywords"}
+{"query_id": "Q000094", "query": "How do I troubleshoot OAuth in SecureStack?", "intent": "howto"}
+{"query_id": "Q000095", "query": "API-909 client id failing", "intent": "error"}
+{"query_id": "Q000096", "query": "OAuth SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000097", "query": "idempotency key setup steps for LogLens v3", "intent": "howto"}
+{"query_id": "Q000098", "query": "Error API-1009 when trying to enable idempotency", "intent": "error"}
+{"query_id": "Q000099", "query": "idempotency key guide", "intent": "keywords"}
+{"query_id": "Q000100", "query": "add seats setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000101", "query": "BILL-608 remove seats failing", "intent": "error"}
+{"query_id": "Q000102", "query": "seat/license management guide", "intent": "keywords"}
+{"query_id": "Q000103", "query": "quantization setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000104", "query": "VEC-401 quantization failing", "intent": "error"}
+{"query_id": "Q000105", "query": "quantization steps", "intent": "keywords"}
+{"query_id": "Q000106", "query": "MFA setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000107", "query": "Error AUTH-201 when trying to configure MFA", "intent": "error"}
+{"query_id": "Q000108", "query": "MFA troubleshooting", "intent": "keywords"}
+{"query_id": "Q000109", "query": "Help: OAuth on the API", "intent": "howto"}
+{"query_id": "Q000110", "query": "OAuth setup issue API-901", "intent": "error"}
+{"query_id": "Q000111", "query": "OAuth setup faq", "intent": "keywords"}
+{"query_id": "Q000112", "query": "Help: facets on the mobile app", "intent": "howto"}
+{"query_id": "Q000113", "query": "filters issue SRCH-501", "intent": "error"}
+{"query_id": "Q000114", "query": "filters configuration", "intent": "keywords"}
+{"query_id": "Q000115", "query": "Help: facets on the CLI", "intent": "howto"}
+{"query_id": "Q000116", "query": "Error SRCH-501 when trying to configure facets", "intent": "error"}
+{"query_id": "Q000117", "query": "facets configuration", "intent": "keywords"}
+{"query_id": "Q000118", "query": "How do I configure tax settings in LogLens?", "intent": "howto"}
+{"query_id": "Q000119", "query": "BILL-519 VAT failing", "intent": "error"}
+{"query_id": "Q000120", "query": "VAT best practices", "intent": "keywords"}
+{"query_id": "Q000121", "query": "Help: cursor pagination on the web app", "intent": "howto"}
+{"query_id": "Q000122", "query": "Error API-801 when trying to run page token", "intent": "error"}
+{"query_id": "Q000123", "query": "cursor pagination workflow", "intent": "keywords"}
+{"query_id": "Q000124", "query": "Help: session timeout on the web app", "intent": "howto"}
+{"query_id": "Q000125", "query": "session expired issue AUTH-601", "intent": "error"}
+{"query_id": "Q000126", "query": "login expired faq", "intent": "keywords"}
+{"query_id": "Q000127", "query": "How do I fix synonym mapping in VectorMart?", "intent": "howto"}
+{"query_id": "Q000128", "query": "query expansion issue SRCH-209", "intent": "error"}
+{"query_id": "Q000129", "query": "synonyms workflow", "intent": "keywords"}
+{"query_id": "Q000130", "query": "Help: OAuth on the mobile app", "intent": "howto"}
+{"query_id": "Q000131", "query": "OAuth issue API-909", "intent": "error"}
+{"query_id": "Q000132", "query": "OAuth setup LogLens v2", "intent": "keywords"}
+{"query_id": "Q000133", "query": "audit logging setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000134", "query": "SEC-301 who did what failing", "intent": "error"}
+{"query_id": "Q000135", "query": "audit logs configuration", "intent": "keywords"}
+{"query_id": "Q000136", "query": "How do I set up compliance in SecureStack?", "intent": "howto"}
+{"query_id": "Q000137", "query": "SEC-609 secure indexing guidelines failing", "intent": "error"}
+{"query_id": "Q000138", "query": "data governance steps", "intent": "keywords"}
+{"query_id": "Q000139", "query": "Help: too many requests on the mobile app", "intent": "howto"}
+{"query_id": "Q000140", "query": "Error API-429 when trying to use HTTP 429", "intent": "error"}
+{"query_id": "Q000141", "query": "HTTP 429 faq", "intent": "keywords"}
+{"query_id": "Q000142", "query": "Help: least privilege on the web app", "intent": "howto"}
+{"query_id": "Q000143", "query": "SEC-409 least privilege failing", "intent": "error"}
+{"query_id": "Q000144", "query": "API key permissions workflow", "intent": "keywords"}
+{"query_id": "Q000145", "query": "Help: relevance evaluation on the API", "intent": "howto"}
+{"query_id": "Q000146", "query": "SRCH-609 relevance evaluation failing", "intent": "error"}
+{"query_id": "Q000147", "query": "MRR AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000148", "query": "How do I enable metrics in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000149", "query": "OBS-601 Kibana dashboards failing", "intent": "error"}
+{"query_id": "Q000150", "query": "Kibana dashboards AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000151", "query": "Help: fuzziness and typos on the CLI", "intent": "howto"}
+{"query_id": "Q000152", "query": "SRCH-301 typo tolerance failing", "intent": "error"}
+{"query_id": "Q000153", "query": "fuzzy search steps", "intent": "keywords"}
+{"query_id": "Q000154", "query": "semantic + lexical setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000155", "query": "VEC-609 hybrid RAG retrieval failing", "intent": "error"}
+{"query_id": "Q000156", "query": "semantic + lexical faq", "intent": "keywords"}
+{"query_id": "Q000157", "query": "Help: reset password on the web app", "intent": "howto"}
+{"query_id": "Q000158", "query": "Error AUTH-118 when trying to run reset password", "intent": "error"}
+{"query_id": "Q000159", "query": "forgot password configuration", "intent": "keywords"}
+{"query_id": "Q000160", "query": "too many attempts setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000161", "query": "Error AUTH-301 when trying to configure locked account", "intent": "error"}
+{"query_id": "Q000162", "query": "too many attempts LogLens v2", "intent": "keywords"}
+{"query_id": "Q000163", "query": "How do I reset embedding model selection in SearchOps?", "intent": "howto"}
+{"query_id": "Q000164", "query": "VEC-101 sentence transformer failing", "intent": "error"}
+{"query_id": "Q000165", "query": "embedding model selection troubleshooting", "intent": "keywords"}
+{"query_id": "Q000166", "query": "Help: embedding model selection on the mobile app", "intent": "howto"}
+{"query_id": "Q000167", "query": "Error VEC-101 when trying to run sentence transformer", "intent": "error"}
+{"query_id": "Q000168", "query": "embeddings best practices", "intent": "keywords"}
+{"query_id": "Q000169", "query": "How do I fix synonym mapping in SecureStack?", "intent": "howto"}
+{"query_id": "Q000170", "query": "Error SRCH-201 when trying to run query expansion", "intent": "error"}
+{"query_id": "Q000171", "query": "synonym mapping SecureStack v2", "intent": "keywords"}
+{"query_id": "Q000172", "query": "Help: re-rank on the CLI", "intent": "howto"}
+{"query_id": "Q000173", "query": "VEC-509 cross-encoder failing", "intent": "error"}
+{"query_id": "Q000174", "query": "cross-encoder best practices", "intent": "keywords"}
+{"query_id": "Q000175", "query": "Help: pagination on the API", "intent": "howto"}
+{"query_id": "Q000176", "query": "pagination issue API-809", "intent": "error"}
+{"query_id": "Q000177", "query": "page token steps", "intent": "keywords"}
+{"query_id": "Q000178", "query": "Help: alert noise reduction on the CLI", "intent": "howto"}
+{"query_id": "Q000179", "query": "alert fatigue issue OBS-401", "intent": "error"}
+{"query_id": "Q000180", "query": "alert fatigue configuration", "intent": "keywords"}
+{"query_id": "Q000181", "query": "p95 latency setup steps for SecureStack v3", "intent": "howto"}
+{"query_id": "Q000182", "query": "SLO issue OBS-501", "intent": "error"}
+{"query_id": "Q000183", "query": "p95 latency guide", "intent": "keywords"}
+{"query_id": "Q000184", "query": "Help: verify email on the API", "intent": "howto"}
+{"query_id": "Q000185", "query": "email verification issue AUTH-501", "intent": "error"}
+{"query_id": "Q000186", "query": "verify email workflow", "intent": "keywords"}
+{"query_id": "Q000187", "query": "Help: recency boost on the web app", "intent": "howto"}
+{"query_id": "Q000188", "query": "Error SRCH-409 when trying to run recency boost", "intent": "error"}
+{"query_id": "Q000189", "query": "ranking boosts best practices", "intent": "keywords"}
+{"query_id": "Q000190", "query": "How do I fix too many requests in SearchOps?", "intent": "howto"}
+{"query_id": "Q000191", "query": "rate limiting issue API-429", "intent": "error"}
+{"query_id": "Q000192", "query": "too many requests faq", "intent": "keywords"}
+{"query_id": "Q000193", "query": "field boosts setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000194", "query": "SRCH-401 field boosts failing", "intent": "error"}
+{"query_id": "Q000195", "query": "field boosts SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000196", "query": "How do I set up hybrid search in SearchOps?", "intent": "howto"}
+{"query_id": "Q000197", "query": "semantic + keyword issue SRCH-109", "intent": "error"}
+{"query_id": "Q000198", "query": "hybrid search troubleshooting", "intent": "keywords"}
+{"query_id": "Q000199", "query": "Help: update card on the API", "intent": "howto"}
+{"query_id": "Q000200", "query": "BILL-101 change card failing", "intent": "error"}
+{"query_id": "Q000201", "query": "change card configuration", "intent": "keywords"}
+{"query_id": "Q000202", "query": "How do I configure num_candidates in SearchOps?", "intent": "howto"}
+{"query_id": "Q000203", "query": "topK issue VEC-301", "intent": "error"}
+{"query_id": "Q000204", "query": "topK configuration", "intent": "keywords"}
+{"query_id": "Q000205", "query": "How do I reset re-rank in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000206", "query": "re-rank issue VEC-501", "intent": "error"}
+{"query_id": "Q000207", "query": "cross-encoder workflow", "intent": "keywords"}
+{"query_id": "Q000208", "query": "Help: metrics on the CLI", "intent": "howto"}
+{"query_id": "Q000209", "query": "metrics issue OBS-601", "intent": "error"}
+{"query_id": "Q000210", "query": "metrics SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000211", "query": "Help: client id on the API", "intent": "howto"}
+{"query_id": "Q000212", "query": "OAuth issue API-901", "intent": "error"}
+{"query_id": "Q000213", "query": "OAuth guide", "intent": "keywords"}
+{"query_id": "Q000214", "query": "Help: webhook retries on the mobile app", "intent": "howto"}
+{"query_id": "Q000215", "query": "Error INT-SSL-01 when trying to configure webhook retries", "intent": "error"}
+{"query_id": "Q000216", "query": "webhook delivery VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000217", "query": "How do I reset log parsing in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000218", "query": "OBS-209 log parsing failing", "intent": "error"}
+{"query_id": "Q000219", "query": "log parsing AcmeCloud v2", "intent": "keywords"}
+{"query_id": "Q000220", "query": "Help: query expansion on the CLI", "intent": "howto"}
+{"query_id": "Q000221", "query": "SRCH-201 synonyms failing", "intent": "error"}
+{"query_id": "Q000222", "query": "synonym mapping steps", "intent": "keywords"}
+{"query_id": "Q000223", "query": "redaction of sensitive data setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000224", "query": "Error SEC-109 when trying to configure masking", "intent": "error"}
+{"query_id": "Q000225", "query": "redaction of sensitive data guide", "intent": "keywords"}
+{"query_id": "Q000226", "query": "Help: int8 on the web app", "intent": "howto"}
+{"query_id": "Q000227", "query": "VEC-409 vector compression failing", "intent": "error"}
+{"query_id": "Q000228", "query": "int8 SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000229", "query": "hybrid search setup steps for SecureStack v3", "intent": "howto"}
+{"query_id": "Q000230", "query": "hybrid search issue SRCH-109", "intent": "error"}
+{"query_id": "Q000231", "query": "hybrid search SecureStack v3", "intent": "keywords"}
+{"query_id": "Q000232", "query": "How do I configure facets in LogLens?", "intent": "howto"}
+{"query_id": "Q000233", "query": "facets issue SRCH-501", "intent": "error"}
+{"query_id": "Q000234", "query": "filters LogLens v2", "intent": "keywords"}
+{"query_id": "Q000235", "query": "idempotency key setup steps for LogLens v3", "intent": "howto"}
+{"query_id": "Q000236", "query": "API-1001 idempotency failing", "intent": "error"}
+{"query_id": "Q000237", "query": "idempotency key best practices", "intent": "keywords"}
+{"query_id": "Q000238", "query": "document chunking setup steps for SearchOps v1", "intent": "howto"}
+{"query_id": "Q000239", "query": "document chunking issue VEC-209", "intent": "error"}
+{"query_id": "Q000240", "query": "chunking for RAG SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000241", "query": "field boosts setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000242", "query": "SRCH-401 recency boost failing", "intent": "error"}
+{"query_id": "Q000243", "query": "recency boost workflow", "intent": "keywords"}
+{"query_id": "Q000244", "query": "How do I reset rotate token in LogLens?", "intent": "howto"}
+{"query_id": "Q000245", "query": "API-701 rotate token failing", "intent": "error"}
+{"query_id": "Q000246", "query": "rotate token steps", "intent": "keywords"}
+{"query_id": "Q000247", "query": "How do I configure who did what in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000248", "query": "audit logs issue SEC-309", "intent": "error"}
+{"query_id": "Q000249", "query": "audit logs workflow", "intent": "keywords"}
+{"query_id": "Q000250", "query": "How do I fix VAT / GST configuration in LogLens?", "intent": "howto"}
+{"query_id": "Q000251", "query": "Error BILL-519 when trying to enable VAT", "intent": "error"}
+{"query_id": "Q000252", "query": "VAT LogLens v1", "intent": "keywords"}
+{"query_id": "Q000253", "query": "data governance setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000254", "query": "secure indexing guidelines issue SEC-601", "intent": "error"}
+{"query_id": "Q000255", "query": "compliance SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000256", "query": "recency boost setup steps for SecureStack v1", "intent": "howto"}
+{"query_id": "Q000257", "query": "Error SRCH-409 when trying to use recency boost", "intent": "error"}
+{"query_id": "Q000258", "query": "ranking boosts SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000259", "query": "Help: update card on the mobile app", "intent": "howto"}
+{"query_id": "Q000260", "query": "change card issue BILL-101", "intent": "error"}
+{"query_id": "Q000261", "query": "update payment method SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000262", "query": "document-level security setup steps for SecureStack v3", "intent": "howto"}
+{"query_id": "Q000263", "query": "document-level security issue SEC-201", "intent": "error"}
+{"query_id": "Q000264", "query": "field security SecureStack v3", "intent": "keywords"}
+{"query_id": "Q000265", "query": "least privilege setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000266", "query": "SEC-401 scoped keys failing", "intent": "error"}
+{"query_id": "Q000267", "query": "scoped keys faq", "intent": "keywords"}
+{"query_id": "Q000268", "query": "How do I fix reranking in SearchOps?", "intent": "howto"}
+{"query_id": "Q000269", "query": "Error VEC-501 when trying to enable cross-encoder", "intent": "error"}
+{"query_id": "Q000270", "query": "reranking faq", "intent": "keywords"}
+{"query_id": "Q000271", "query": "How do I fix int8 in LogLens?", "intent": "howto"}
+{"query_id": "Q000272", "query": "VEC-409 quantization failing", "intent": "error"}
+{"query_id": "Q000273", "query": "int8 best practices", "intent": "keywords"}
+{"query_id": "Q000274", "query": "Help: typo tolerance on the web app", "intent": "howto"}
+{"query_id": "Q000275", "query": "SRCH-309 typo tolerance failing", "intent": "error"}
+{"query_id": "Q000276", "query": "fuzzy search faq", "intent": "keywords"}
+{"query_id": "Q000277", "query": "How do I reset reset password in SearchOps?", "intent": "howto"}
+{"query_id": "Q000278", "query": "AUTH-118 password reset failing", "intent": "error"}
+{"query_id": "Q000279", "query": "forgot password best practices", "intent": "keywords"}
+{"query_id": "Q000280", "query": "How do I troubleshoot client id in VectorMart?", "intent": "howto"}
+{"query_id": "Q000281", "query": "API-909 client id failing", "intent": "error"}
+{"query_id": "Q000282", "query": "client id faq", "intent": "keywords"}
+{"query_id": "Q000283", "query": "Help: kNN tuning on the API", "intent": "howto"}
+{"query_id": "Q000284", "query": "VEC-301 kNN tuning failing", "intent": "error"}
+{"query_id": "Q000285", "query": "num_candidates configuration", "intent": "keywords"}
+{"query_id": "Q000286", "query": "facets setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000287", "query": "filters issue SRCH-509", "intent": "error"}
+{"query_id": "Q000288", "query": "filters faq", "intent": "keywords"}
+{"query_id": "Q000289", "query": "page token setup steps for SearchOps v2", "intent": "howto"}
+{"query_id": "Q000290", "query": "page token issue API-801", "intent": "error"}
+{"query_id": "Q000291", "query": "cursor pagination best practices", "intent": "keywords"}
+{"query_id": "Q000292", "query": "Help: duplicate requests on the CLI", "intent": "howto"}
+{"query_id": "Q000293", "query": "duplicate requests issue API-1001", "intent": "error"}
+{"query_id": "Q000294", "query": "duplicate requests SearchOps v2", "intent": "keywords"}
+{"query_id": "Q000295", "query": "How do I troubleshoot update payment method in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000296", "query": "change card issue BILL-101", "intent": "error"}
+{"query_id": "Q000297", "query": "update payment method faq", "intent": "keywords"}
+{"query_id": "Q000298", "query": "How do I set up redaction of sensitive data in SecureStack?", "intent": "howto"}
+{"query_id": "Q000299", "query": "PII redaction issue SEC-101", "intent": "error"}
+{"query_id": "Q000300", "query": "PII redaction SecureStack v3", "intent": "keywords"}
+{"query_id": "Q000301", "query": "Help: field boosts on the CLI", "intent": "howto"}
+{"query_id": "Q000302", "query": "ranking boosts issue SRCH-401", "intent": "error"}
+{"query_id": "Q000303", "query": "field boosts faq", "intent": "keywords"}
+{"query_id": "Q000304", "query": "hybrid RAG retrieval setup steps for LogLens v3", "intent": "howto"}
+{"query_id": "Q000305", "query": "VEC-609 hybrid RAG retrieval failing", "intent": "error"}
+{"query_id": "Q000306", "query": "hybrid RAG LogLens v3", "intent": "keywords"}
+{"query_id": "Q000307", "query": "Help: embeddings on the mobile app", "intent": "howto"}
+{"query_id": "Q000308", "query": "VEC-109 embedding model selection failing", "intent": "error"}
+{"query_id": "Q000309", "query": "embeddings troubleshooting", "intent": "keywords"}
+{"query_id": "Q000310", "query": "metadata filtering setup steps for LogLens v3", "intent": "howto"}
+{"query_id": "Q000311", "query": "Error SRCH-509 when trying to enable metadata filtering", "intent": "error"}
+{"query_id": "Q000312", "query": "facets troubleshooting", "intent": "keywords"}
+{"query_id": "Q000313", "query": "How do I reset OAuth in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000314", "query": "OAuth setup issue API-909", "intent": "error"}
+{"query_id": "Q000315", "query": "client id steps", "intent": "keywords"}
+{"query_id": "Q000316", "query": "How do I troubleshoot dashboard troubleshooting in SecureStack?", "intent": "howto"}
+{"query_id": "Q000317", "query": "Error OBS-601 when trying to run dashboard troubleshooting", "intent": "error"}
+{"query_id": "Q000318", "query": "Kibana dashboards workflow", "intent": "keywords"}
+{"query_id": "Q000319", "query": "idempotency setup steps for SearchOps v1", "intent": "howto"}
+{"query_id": "Q000320", "query": "API-1001 duplicate requests failing", "intent": "error"}
+{"query_id": "Q000321", "query": "idempotency steps", "intent": "keywords"}
+{"query_id": "Q000322", "query": "How do I set up update payment method in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000323", "query": "Error BILL-101 when trying to run update card", "intent": "error"}
+{"query_id": "Q000324", "query": "update payment method AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000325", "query": "Help: billing invoice on the mobile app", "intent": "howto"}
+{"query_id": "Q000326", "query": "Error BILL-204 when trying to use invoice PDF", "intent": "error"}
+{"query_id": "Q000327", "query": "invoice PDF SecureStack v2", "intent": "keywords"}
+{"query_id": "Q000328", "query": "fuzziness and typos setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000329", "query": "Error SRCH-309 when trying to use fuzziness and typos", "intent": "error"}
+{"query_id": "Q000330", "query": "typo tolerance SecureStack v2", "intent": "keywords"}
+{"query_id": "Q000331", "query": "How do I configure ranking boosts in SearchOps?", "intent": "howto"}
+{"query_id": "Q000332", "query": "recency boost issue SRCH-401", "intent": "error"}
+{"query_id": "Q000333", "query": "recency boost SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000334", "query": "chunking for RAG setup steps for VectorMart v2", "intent": "howto"}
+{"query_id": "Q000335", "query": "Error VEC-209 when trying to use overlap", "intent": "error"}
+{"query_id": "Q000336", "query": "overlap workflow", "intent": "keywords"}
+{"query_id": "Q000337", "query": "How do I enable MRR in SearchOps?", "intent": "howto"}
+{"query_id": "Q000338", "query": "relevance evaluation issue SRCH-609", "intent": "error"}
+{"query_id": "Q000339", "query": "MRR SearchOps v2", "intent": "keywords"}
+{"query_id": "Q000340", "query": "Help: int8 on the CLI", "intent": "howto"}
+{"query_id": "Q000341", "query": "int8 issue VEC-409", "intent": "error"}
+{"query_id": "Q000342", "query": "vector compression steps", "intent": "keywords"}
+{"query_id": "Q000343", "query": "How do I troubleshoot seat/license management in VectorMart?", "intent": "howto"}
+{"query_id": "Q000344", "query": "Error BILL-608 when trying to use seat/license management", "intent": "error"}
+{"query_id": "Q000345", "query": "remove seats VectorMart v3", "intent": "keywords"}
+{"query_id": "Q000346", "query": "Help: cross-encoder on the web app", "intent": "howto"}
+{"query_id": "Q000347", "query": "re-rank issue VEC-509", "intent": "error"}
+{"query_id": "Q000348", "query": "cross-encoder troubleshooting", "intent": "keywords"}
+{"query_id": "Q000349", "query": "Help: OAuth setup on the API", "intent": "howto"}
+{"query_id": "Q000350", "query": "OAuth setup issue API-909", "intent": "error"}
+{"query_id": "Q000351", "query": "OAuth setup workflow", "intent": "keywords"}
+{"query_id": "Q000352", "query": "How do I reset hybrid search in VectorMart?", "intent": "howto"}
+{"query_id": "Q000353", "query": "SRCH-101 semantic + keyword failing", "intent": "error"}
+{"query_id": "Q000354", "query": "semantic + keyword VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000355", "query": "Help: chunking for RAG on the mobile app", "intent": "howto"}
+{"query_id": "Q000356", "query": "VEC-209 overlap failing", "intent": "error"}
+{"query_id": "Q000357", "query": "chunking for RAG AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000358", "query": "topK setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000359", "query": "VEC-301 num_candidates failing", "intent": "error"}
+{"query_id": "Q000360", "query": "kNN tuning faq", "intent": "keywords"}
+{"query_id": "Q000361", "query": "Help: hybrid RAG on the CLI", "intent": "howto"}
+{"query_id": "Q000362", "query": "VEC-609 hybrid RAG failing", "intent": "error"}
+{"query_id": "Q000363", "query": "hybrid RAG retrieval workflow", "intent": "keywords"}
+{"query_id": "Q000364", "query": "Help: embeddings on the API", "intent": "howto"}
+{"query_id": "Q000365", "query": "VEC-101 sentence transformer failing", "intent": "error"}
+{"query_id": "Q000366", "query": "embedding model selection AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000367", "query": "How do I configure field security in LogLens?", "intent": "howto"}
+{"query_id": "Q000368", "query": "SEC-201 field security failing", "intent": "error"}
+{"query_id": "Q000369", "query": "document-level security LogLens v1", "intent": "keywords"}
+{"query_id": "Q000370", "query": "facets setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000371", "query": "facets issue SRCH-501", "intent": "error"}
+{"query_id": "Q000372", "query": "metadata filtering faq", "intent": "keywords"}
+{"query_id": "Q000373", "query": "How do I fix synonym mapping in SearchOps?", "intent": "howto"}
+{"query_id": "Q000374", "query": "synonyms issue SRCH-209", "intent": "error"}
+{"query_id": "Q000375", "query": "query expansion guide", "intent": "keywords"}
+{"query_id": "Q000376", "query": "Help: fuzziness and typos on the API", "intent": "howto"}
+{"query_id": "Q000377", "query": "typo tolerance issue SRCH-301", "intent": "error"}
+{"query_id": "Q000378", "query": "fuzzy search configuration", "intent": "keywords"}
+{"query_id": "Q000379", "query": "fuzzy search setup steps for AcmeCloud v1", "intent": "howto"}
+{"query_id": "Q000380", "query": "Error SRCH-301 when trying to enable typo tolerance", "intent": "error"}
+{"query_id": "Q000381", "query": "fuzzy search AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000382", "query": "cross-encoder setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000383", "query": "Error VEC-501 when trying to run reranking", "intent": "error"}
+{"query_id": "Q000384", "query": "reranking LogLens v2", "intent": "keywords"}
+{"query_id": "Q000385", "query": "How do I configure ranking boosts in LogLens?", "intent": "howto"}
+{"query_id": "Q000386", "query": "Error SRCH-401 when trying to enable recency boost", "intent": "error"}
+{"query_id": "Q000387", "query": "recency boost troubleshooting", "intent": "keywords"}
+{"query_id": "Q000388", "query": "How do I fix webhook delivery in VectorMart?", "intent": "howto"}
+{"query_id": "Q000389", "query": "Error INT-503-02 when trying to run webhook retries", "intent": "error"}
+{"query_id": "Q000390", "query": "webhook retries troubleshooting", "intent": "keywords"}
+{"query_id": "Q000391", "query": "Help: facets on the mobile app", "intent": "howto"}
+{"query_id": "Q000392", "query": "SRCH-501 filters failing", "intent": "error"}
+{"query_id": "Q000393", "query": "filters SearchOps v2", "intent": "keywords"}
+{"query_id": "Q000394", "query": "How do I enable seat/license management in SecureStack?", "intent": "howto"}
+{"query_id": "Q000395", "query": "BILL-608 seat/license management failing", "intent": "error"}
+{"query_id": "Q000396", "query": "add seats troubleshooting", "intent": "keywords"}
+{"query_id": "Q000397", "query": "How do I set up filters in SecureStack?", "intent": "howto"}
+{"query_id": "Q000398", "query": "Error SRCH-501 when trying to enable metadata filtering", "intent": "error"}
+{"query_id": "Q000399", "query": "filters configuration", "intent": "keywords"}
+{"query_id": "Q000400", "query": "quantization setup steps for VectorMart v1", "intent": "howto"}
+{"query_id": "Q000401", "query": "VEC-409 int8 failing", "intent": "error"}
+{"query_id": "Q000402", "query": "vector compression VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000403", "query": "How do I troubleshoot span in LogLens?", "intent": "howto"}
+{"query_id": "Q000404", "query": "OBS-301 distributed tracing failing", "intent": "error"}
+{"query_id": "Q000405", "query": "span LogLens v3", "intent": "keywords"}
+{"query_id": "Q000406", "query": "idempotency key setup steps for VectorMart v3", "intent": "howto"}
+{"query_id": "Q000407", "query": "API-1009 duplicate requests failing", "intent": "error"}
+{"query_id": "Q000408", "query": "duplicate requests faq", "intent": "keywords"}
+{"query_id": "Q000409", "query": "Help: API key permissions on the mobile app", "intent": "howto"}
+{"query_id": "Q000410", "query": "scoped keys issue SEC-401", "intent": "error"}
+{"query_id": "Q000411", "query": "API key permissions SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000412", "query": "Help: incident correlation on the CLI", "intent": "howto"}
+{"query_id": "Q000413", "query": "postmortem search issue OBS-109", "intent": "error"}
+{"query_id": "Q000414", "query": "postmortem search faq", "intent": "keywords"}
+{"query_id": "Q000415", "query": "How do I reset field security in SearchOps?", "intent": "howto"}
+{"query_id": "Q000416", "query": "Error SEC-209 when trying to configure field-level access control", "intent": "error"}
+{"query_id": "Q000417", "query": "field security workflow", "intent": "keywords"}
+{"query_id": "Q000418", "query": "Help: remove seats on the CLI", "intent": "howto"}
+{"query_id": "Q000419", "query": "BILL-601 add seats failing", "intent": "error"}
+{"query_id": "Q000420", "query": "seat/license management SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000421", "query": "2FA setup steps for AcmeCloud v1", "intent": "howto"}
+{"query_id": "Q000422", "query": "AUTH-207 two-factor authentication failing", "intent": "error"}
+{"query_id": "Q000423", "query": "two-factor authentication workflow", "intent": "keywords"}
+{"query_id": "Q000424", "query": "Help: update card on the web app", "intent": "howto"}
+{"query_id": "Q000425", "query": "BILL-101 update card failing", "intent": "error"}
+{"query_id": "Q000426", "query": "update payment method AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000427", "query": "Help: topK on the mobile app", "intent": "howto"}
+{"query_id": "Q000428", "query": "VEC-309 kNN tuning failing", "intent": "error"}
+{"query_id": "Q000429", "query": "num_candidates SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000430", "query": "How do I reset two-factor authentication in LogLens?", "intent": "howto"}
+{"query_id": "Q000431", "query": "2FA issue AUTH-207", "intent": "error"}
+{"query_id": "Q000432", "query": "two-factor authentication LogLens v1", "intent": "keywords"}
+{"query_id": "Q000433", "query": "Help: account lockout on the API", "intent": "howto"}
+{"query_id": "Q000434", "query": "Error AUTH-301 when trying to use locked account", "intent": "error"}
+{"query_id": "Q000435", "query": "account lockout configuration", "intent": "keywords"}
+{"query_id": "Q000436", "query": "hybrid RAG setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000437", "query": "semantic + lexical issue VEC-601", "intent": "error"}
+{"query_id": "Q000438", "query": "semantic + lexical troubleshooting", "intent": "keywords"}
+{"query_id": "Q000439", "query": "How do I set up overlap in SearchOps?", "intent": "howto"}
+{"query_id": "Q000440", "query": "document chunking issue VEC-209", "intent": "error"}
+{"query_id": "Q000441", "query": "chunking for RAG faq", "intent": "keywords"}
+{"query_id": "Q000442", "query": "Help: facets on the mobile app", "intent": "howto"}
+{"query_id": "Q000443", "query": "Error SRCH-509 when trying to configure metadata filtering", "intent": "error"}
+{"query_id": "Q000444", "query": "metadata filtering steps", "intent": "keywords"}
+{"query_id": "Q000445", "query": "too many requests setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000446", "query": "rate limiting issue API-429", "intent": "error"}
+{"query_id": "Q000447", "query": "too many requests guide", "intent": "keywords"}
+{"query_id": "Q000448", "query": "Help: PII redaction on the CLI", "intent": "howto"}
+{"query_id": "Q000449", "query": "SEC-109 masking failing", "intent": "error"}
+{"query_id": "Q000450", "query": "PII redaction best practices", "intent": "keywords"}
+{"query_id": "Q000451", "query": "Help: chargeback on the CLI", "intent": "howto"}
+{"query_id": "Q000452", "query": "Error BILL-401 when trying to enable refund and chargeback", "intent": "error"}
+{"query_id": "Q000453", "query": "refund and chargeback steps", "intent": "keywords"}
+{"query_id": "Q000454", "query": "Help: MFA on the web app", "intent": "howto"}
+{"query_id": "Q000455", "query": "Error AUTH-207 when trying to configure 2FA", "intent": "error"}
+{"query_id": "Q000456", "query": "MFA SearchOps v2", "intent": "keywords"}
+{"query_id": "Q000457", "query": "webhook delivery setup steps for VectorMart v1", "intent": "howto"}
+{"query_id": "Q000458", "query": "INT-503-02 webhook delivery failing", "intent": "error"}
+{"query_id": "Q000459", "query": "webhook delivery best practices", "intent": "keywords"}
+{"query_id": "Q000460", "query": "session timeout setup steps for SecureStack v1", "intent": "howto"}
+{"query_id": "Q000461", "query": "Error AUTH-607 when trying to configure login expired", "intent": "error"}
+{"query_id": "Q000462", "query": "login expired SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000463", "query": "Help: webhooks failing on the web app", "intent": "howto"}
+{"query_id": "Q000464", "query": "Error INT-SSL-01 when trying to configure webhook retries", "intent": "error"}
+{"query_id": "Q000465", "query": "webhook delivery guide", "intent": "keywords"}
+{"query_id": "Q000466", "query": "locked account setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000467", "query": "Error AUTH-301 when trying to run account lockout", "intent": "error"}
+{"query_id": "Q000468", "query": "account lockout AcmeCloud v2", "intent": "keywords"}
+{"query_id": "Q000469", "query": "How do I configure document chunking in LogLens?", "intent": "howto"}
+{"query_id": "Q000470", "query": "VEC-209 overlap failing", "intent": "error"}
+{"query_id": "Q000471", "query": "document chunking configuration", "intent": "keywords"}
+{"query_id": "Q000472", "query": "How do I reset detect suspicious activity in LogLens?", "intent": "howto"}
+{"query_id": "Q000473", "query": "Error SEC-509 when trying to run suspicious login", "intent": "error"}
+{"query_id": "Q000474", "query": "detect suspicious activity configuration", "intent": "keywords"}
+{"query_id": "Q000475", "query": "Help: NDCG on the API", "intent": "howto"}
+{"query_id": "Q000476", "query": "MRR issue SRCH-601", "intent": "error"}
+{"query_id": "Q000477", "query": "NDCG VectorMart v3", "intent": "keywords"}
+{"query_id": "Q000478", "query": "Help: webhooks failing on the mobile app", "intent": "howto"}
+{"query_id": "Q000479", "query": "Error INT-SSL-01 when trying to use webhook delivery", "intent": "error"}
+{"query_id": "Q000480", "query": "webhook retries AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000481", "query": "Help: redaction of sensitive data on the API", "intent": "howto"}
+{"query_id": "Q000482", "query": "SEC-109 PII redaction failing", "intent": "error"}
+{"query_id": "Q000483", "query": "redaction of sensitive data faq", "intent": "keywords"}
+{"query_id": "Q000484", "query": "How do I set up duplicate requests in VectorMart?", "intent": "howto"}
+{"query_id": "Q000485", "query": "idempotency key issue API-1009", "intent": "error"}
+{"query_id": "Q000486", "query": "idempotency VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000487", "query": "How do I troubleshoot redaction of sensitive data in LogLens?", "intent": "howto"}
+{"query_id": "Q000488", "query": "PII redaction issue SEC-109", "intent": "error"}
+{"query_id": "Q000489", "query": "PII redaction workflow", "intent": "keywords"}
+{"query_id": "Q000490", "query": "BM25 + vectors setup steps for SecureStack v3", "intent": "howto"}
+{"query_id": "Q000491", "query": "Error SRCH-109 when trying to enable hybrid search", "intent": "error"}
+{"query_id": "Q000492", "query": "BM25 + vectors troubleshooting", "intent": "keywords"}
+{"query_id": "Q000493", "query": "How do I enable OAuth setup in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000494", "query": "client id issue API-909", "intent": "error"}
+{"query_id": "Q000495", "query": "client id faq", "intent": "keywords"}
+{"query_id": "Q000496", "query": "Help: single sign-on on the CLI", "intent": "howto"}
+{"query_id": "Q000497", "query": "Error AUTH-418 when trying to run SSO login", "intent": "error"}
+{"query_id": "Q000498", "query": "SSO login workflow", "intent": "keywords"}
+{"query_id": "Q000499", "query": "How do I fix alert fatigue in SearchOps?", "intent": "howto"}
+{"query_id": "Q000500", "query": "Error OBS-409 when trying to enable alert fatigue", "intent": "error"}
+{"query_id": "Q000501", "query": "alert fatigue guide", "intent": "keywords"}
+{"query_id": "Q000502", "query": "How do I reset too many attempts in SecureStack?", "intent": "howto"}
+{"query_id": "Q000503", "query": "locked account issue AUTH-309", "intent": "error"}
+{"query_id": "Q000504", "query": "account lockout troubleshooting", "intent": "keywords"}
+{"query_id": "Q000505", "query": "document-level security setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000506", "query": "SEC-201 field security failing", "intent": "error"}
+{"query_id": "Q000507", "query": "document-level security faq", "intent": "keywords"}
+{"query_id": "Q000508", "query": "Help: p95 latency on the mobile app", "intent": "howto"}
+{"query_id": "Q000509", "query": "p95 latency issue OBS-509", "intent": "error"}
+{"query_id": "Q000510", "query": "latency budgeting steps", "intent": "keywords"}
+{"query_id": "Q000511", "query": "How do I troubleshoot tax settings in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000512", "query": "BILL-519 tax settings failing", "intent": "error"}
+{"query_id": "Q000513", "query": "tax settings AcmeCloud v2", "intent": "keywords"}
+{"query_id": "Q000514", "query": "Help: typo tolerance on the web app", "intent": "howto"}
+{"query_id": "Q000515", "query": "Error SRCH-309 when trying to enable fuzziness and typos", "intent": "error"}
+{"query_id": "Q000516", "query": "typo tolerance best practices", "intent": "keywords"}
+{"query_id": "Q000517", "query": "change card setup steps for VectorMart v1", "intent": "howto"}
+{"query_id": "Q000518", "query": "Error BILL-101 when trying to run update card", "intent": "error"}
+{"query_id": "Q000519", "query": "update payment method faq", "intent": "keywords"}
+{"query_id": "Q000520", "query": "Help: API key permissions on the CLI", "intent": "howto"}
+{"query_id": "Q000521", "query": "API key permissions issue SEC-409", "intent": "error"}
+{"query_id": "Q000522", "query": "API key permissions faq", "intent": "keywords"}
+{"query_id": "Q000523", "query": "Help: metrics on the mobile app", "intent": "howto"}
+{"query_id": "Q000524", "query": "OBS-601 Kibana dashboards failing", "intent": "error"}
+{"query_id": "Q000525", "query": "metrics LogLens v1", "intent": "keywords"}
+{"query_id": "Q000526", "query": "alert fatigue setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000527", "query": "OBS-401 alert fatigue failing", "intent": "error"}
+{"query_id": "Q000528", "query": "dedup alerts faq", "intent": "keywords"}
+{"query_id": "Q000529", "query": "anomaly setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000530", "query": "Error SEC-509 when trying to configure suspicious login", "intent": "error"}
+{"query_id": "Q000531", "query": "suspicious login configuration", "intent": "keywords"}
+{"query_id": "Q000532", "query": "secure indexing guidelines setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000533", "query": "Error SEC-609 when trying to use compliance", "intent": "error"}
+{"query_id": "Q000534", "query": "secure indexing guidelines configuration", "intent": "keywords"}
+{"query_id": "Q000535", "query": "Help: span on the CLI", "intent": "howto"}
+{"query_id": "Q000536", "query": "Error OBS-309 when trying to configure distributed tracing", "intent": "error"}
+{"query_id": "Q000537", "query": "span best practices", "intent": "keywords"}
+{"query_id": "Q000538", "query": "log ingestion setup steps for VectorMart v2", "intent": "howto"}
+{"query_id": "Q000539", "query": "log parsing issue OBS-201", "intent": "error"}
+{"query_id": "Q000540", "query": "log ingestion guide", "intent": "keywords"}
+{"query_id": "Q000541", "query": "How do I fix synonym mapping in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000542", "query": "SRCH-209 synonym mapping failing", "intent": "error"}
+{"query_id": "Q000543", "query": "synonyms AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000544", "query": "chunking for RAG setup steps for SearchOps v1", "intent": "howto"}
+{"query_id": "Q000545", "query": "overlap issue VEC-209", "intent": "error"}
+{"query_id": "Q000546", "query": "overlap steps", "intent": "keywords"}
+{"query_id": "Q000547", "query": "Help: too many requests on the mobile app", "intent": "howto"}
+{"query_id": "Q000548", "query": "too many requests issue API-429", "intent": "error"}
+{"query_id": "Q000549", "query": "too many requests LogLens v1", "intent": "keywords"}
+{"query_id": "Q000550", "query": "reset password setup steps for AcmeCloud v1", "intent": "howto"}
+{"query_id": "Q000551", "query": "reset password issue AUTH-102", "intent": "error"}
+{"query_id": "Q000552", "query": "password reset AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000553", "query": "How do I enable filters in LogLens?", "intent": "howto"}
+{"query_id": "Q000554", "query": "filters issue SRCH-501", "intent": "error"}
+{"query_id": "Q000555", "query": "metadata filtering steps", "intent": "keywords"}
+{"query_id": "Q000556", "query": "How do I enable compliance in SearchOps?", "intent": "howto"}
+{"query_id": "Q000557", "query": "compliance issue SEC-609", "intent": "error"}
+{"query_id": "Q000558", "query": "compliance steps", "intent": "keywords"}
+{"query_id": "Q000559", "query": "How do I fix rotate token in VectorMart?", "intent": "howto"}
+{"query_id": "Q000560", "query": "Error API-701 when trying to configure rotate API keys", "intent": "error"}
+{"query_id": "Q000561", "query": "key rotation VectorMart v1", "intent": "keywords"}
+{"query_id": "Q000562", "query": "Help: locked account on the API", "intent": "howto"}
+{"query_id": "Q000563", "query": "too many attempts issue AUTH-301", "intent": "error"}
+{"query_id": "Q000564", "query": "account lockout workflow", "intent": "keywords"}
+{"query_id": "Q000565", "query": "dashboard troubleshooting setup steps for VectorMart v3", "intent": "howto"}
+{"query_id": "Q000566", "query": "Error OBS-609 when trying to configure Kibana dashboards", "intent": "error"}
+{"query_id": "Q000567", "query": "metrics VectorMart v3", "intent": "keywords"}
+{"query_id": "Q000568", "query": "Help: SLO on the web app", "intent": "howto"}
+{"query_id": "Q000569", "query": "Error OBS-501 when trying to run latency budgeting", "intent": "error"}
+{"query_id": "Q000570", "query": "latency budgeting troubleshooting", "intent": "keywords"}
+{"query_id": "Q000571", "query": "How do I reset single sign-on in VectorMart?", "intent": "howto"}
+{"query_id": "Q000572", "query": "AUTH-418 SAML failing", "intent": "error"}
+{"query_id": "Q000573", "query": "SAML workflow", "intent": "keywords"}
+{"query_id": "Q000574", "query": "Help: embeddings on the web app", "intent": "howto"}
+{"query_id": "Q000575", "query": "VEC-101 sentence transformer failing", "intent": "error"}
+{"query_id": "Q000576", "query": "embeddings LogLens v2", "intent": "keywords"}
+{"query_id": "Q000577", "query": "latency budgeting setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000578", "query": "p95 latency issue OBS-509", "intent": "error"}
+{"query_id": "Q000579", "query": "latency budgeting SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000580", "query": "Help: quantization on the mobile app", "intent": "howto"}
+{"query_id": "Q000581", "query": "quantization issue VEC-401", "intent": "error"}
+{"query_id": "Q000582", "query": "int8 SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000583", "query": "How do I reset field-level access control in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000584", "query": "document-level security issue SEC-209", "intent": "error"}
+{"query_id": "Q000585", "query": "field security AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000586", "query": "Help: document-level security on the CLI", "intent": "howto"}
+{"query_id": "Q000587", "query": "field security issue SEC-209", "intent": "error"}
+{"query_id": "Q000588", "query": "document-level security LogLens v2", "intent": "keywords"}
+{"query_id": "Q000589", "query": "Help: page token on the CLI", "intent": "howto"}
+{"query_id": "Q000590", "query": "API-801 page token failing", "intent": "error"}
+{"query_id": "Q000591", "query": "page token steps", "intent": "keywords"}
+{"query_id": "Q000592", "query": "How do I set up seat/license management in VectorMart?", "intent": "howto"}
+{"query_id": "Q000593", "query": "seat/license management issue BILL-601", "intent": "error"}
+{"query_id": "Q000594", "query": "remove seats configuration", "intent": "keywords"}
+{"query_id": "Q000595", "query": "idempotency setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000596", "query": "idempotency issue API-1009", "intent": "error"}
+{"query_id": "Q000597", "query": "duplicate requests AcmeCloud v2", "intent": "keywords"}
+{"query_id": "Q000598", "query": "remove seats setup steps for SearchOps v2", "intent": "howto"}
+{"query_id": "Q000599", "query": "BILL-601 add seats failing", "intent": "error"}
+{"query_id": "Q000600", "query": "remove seats workflow", "intent": "keywords"}
+{"query_id": "Q000601", "query": "Help: synonyms on the web app", "intent": "howto"}
+{"query_id": "Q000602", "query": "synonyms issue SRCH-201", "intent": "error"}
+{"query_id": "Q000603", "query": "synonym mapping configuration", "intent": "keywords"}
+{"query_id": "Q000604", "query": "Help: MFA on the CLI", "intent": "howto"}
+{"query_id": "Q000605", "query": "AUTH-201 MFA failing", "intent": "error"}
+{"query_id": "Q000606", "query": "two-factor authentication configuration", "intent": "keywords"}
+{"query_id": "Q000607", "query": "How do I reset masking in SearchOps?", "intent": "howto"}
+{"query_id": "Q000608", "query": "PII redaction issue SEC-109", "intent": "error"}
+{"query_id": "Q000609", "query": "redaction of sensitive data guide", "intent": "keywords"}
+{"query_id": "Q000610", "query": "chunking for RAG setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000611", "query": "Error VEC-201 when trying to enable chunking for RAG", "intent": "error"}
+{"query_id": "Q000612", "query": "chunking for RAG faq", "intent": "keywords"}
+{"query_id": "Q000613", "query": "Help: API key permissions on the API", "intent": "howto"}
+{"query_id": "Q000614", "query": "Error SEC-409 when trying to configure scoped keys", "intent": "error"}
+{"query_id": "Q000615", "query": "least privilege LogLens v3", "intent": "keywords"}
+{"query_id": "Q000616", "query": "How do I fix login expired in SecureStack?", "intent": "howto"}
+{"query_id": "Q000617", "query": "session expired issue AUTH-607", "intent": "error"}
+{"query_id": "Q000618", "query": "login expired SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000619", "query": "Help: rotate token on the web app", "intent": "howto"}
+{"query_id": "Q000620", "query": "rotate token issue API-701", "intent": "error"}
+{"query_id": "Q000621", "query": "rotate API keys steps", "intent": "keywords"}
+{"query_id": "Q000622", "query": "Help: update card on the web app", "intent": "howto"}
+{"query_id": "Q000623", "query": "update payment method issue BILL-101", "intent": "error"}
+{"query_id": "Q000624", "query": "update card troubleshooting", "intent": "keywords"}
+{"query_id": "Q000625", "query": "audit logging setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000626", "query": "who did what issue SEC-309", "intent": "error"}
+{"query_id": "Q000627", "query": "who did what LogLens v2", "intent": "keywords"}
+{"query_id": "Q000628", "query": "webhook retries setup steps for LogLens v2", "intent": "howto"}
+{"query_id": "Q000629", "query": "webhooks failing issue INT-503-02", "intent": "error"}
+{"query_id": "Q000630", "query": "webhook delivery LogLens v2", "intent": "keywords"}
+{"query_id": "Q000631", "query": "How do I troubleshoot reranking in SecureStack?", "intent": "howto"}
+{"query_id": "Q000632", "query": "re-rank issue VEC-509", "intent": "error"}
+{"query_id": "Q000633", "query": "reranking SecureStack v1", "intent": "keywords"}
+{"query_id": "Q000634", "query": "Help: OAuth setup on the API", "intent": "howto"}
+{"query_id": "Q000635", "query": "API-901 OAuth setup failing", "intent": "error"}
+{"query_id": "Q000636", "query": "OAuth setup guide", "intent": "keywords"}
+{"query_id": "Q000637", "query": "Help: re-rank on the API", "intent": "howto"}
+{"query_id": "Q000638", "query": "re-rank issue VEC-509", "intent": "error"}
+{"query_id": "Q000639", "query": "cross-encoder configuration", "intent": "keywords"}
+{"query_id": "Q000640", "query": "Help: embedding model selection on the API", "intent": "howto"}
+{"query_id": "Q000641", "query": "Error VEC-109 when trying to use embeddings", "intent": "error"}
+{"query_id": "Q000642", "query": "sentence transformer faq", "intent": "keywords"}
+{"query_id": "Q000643", "query": "Help: idempotency on the CLI", "intent": "howto"}
+{"query_id": "Q000644", "query": "Error API-1001 when trying to use duplicate requests", "intent": "error"}
+{"query_id": "Q000645", "query": "idempotency troubleshooting", "intent": "keywords"}
+{"query_id": "Q000646", "query": "Help: embedding model selection on the CLI", "intent": "howto"}
+{"query_id": "Q000647", "query": "embeddings issue VEC-101", "intent": "error"}
+{"query_id": "Q000648", "query": "embeddings AcmeCloud v1", "intent": "keywords"}
+{"query_id": "Q000649", "query": "How do I fix VAT in SecureStack?", "intent": "howto"}
+{"query_id": "Q000650", "query": "Error BILL-501 when trying to run tax settings", "intent": "error"}
+{"query_id": "Q000651", "query": "VAT / GST configuration best practices", "intent": "keywords"}
+{"query_id": "Q000652", "query": "How do I troubleshoot metadata filtering in SecureStack?", "intent": "howto"}
+{"query_id": "Q000653", "query": "Error SRCH-501 when trying to run facets", "intent": "error"}
+{"query_id": "Q000654", "query": "metadata filtering workflow", "intent": "keywords"}
+{"query_id": "Q000655", "query": "semantic + lexical setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000656", "query": "semantic + lexical issue VEC-601", "intent": "error"}
+{"query_id": "Q000657", "query": "hybrid RAG LogLens v1", "intent": "keywords"}
+{"query_id": "Q000658", "query": "cancel plan setup steps for SearchOps v1", "intent": "howto"}
+{"query_id": "Q000659", "query": "BILL-318 cancel plan failing", "intent": "error"}
+{"query_id": "Q000660", "query": "downgrade SearchOps v1", "intent": "keywords"}
+{"query_id": "Q000661", "query": "How do I fix fuzzy search in LogLens?", "intent": "howto"}
+{"query_id": "Q000662", "query": "fuzzy search issue SRCH-309", "intent": "error"}
+{"query_id": "Q000663", "query": "fuzzy search guide", "intent": "keywords"}
+{"query_id": "Q000664", "query": "How do I set up log parsing in SecureStack?", "intent": "howto"}
+{"query_id": "Q000665", "query": "pipelines issue OBS-209", "intent": "error"}
+{"query_id": "Q000666", "query": "log ingestion configuration", "intent": "keywords"}
+{"query_id": "Q000667", "query": "How do I configure session timeout in VectorMart?", "intent": "howto"}
+{"query_id": "Q000668", "query": "session expired issue AUTH-607", "intent": "error"}
+{"query_id": "Q000669", "query": "session expired best practices", "intent": "keywords"}
+{"query_id": "Q000670", "query": "embedding model selection setup steps for SecureStack v2", "intent": "howto"}
+{"query_id": "Q000671", "query": "embeddings issue VEC-101", "intent": "error"}
+{"query_id": "Q000672", "query": "embedding model selection guide", "intent": "keywords"}
+{"query_id": "Q000673", "query": "How do I fix span in LogLens?", "intent": "howto"}
+{"query_id": "Q000674", "query": "OBS-309 distributed tracing failing", "intent": "error"}
+{"query_id": "Q000675", "query": "span configuration", "intent": "keywords"}
+{"query_id": "Q000676", "query": "Help: fuzziness and typos on the CLI", "intent": "howto"}
+{"query_id": "Q000677", "query": "Error SRCH-301 when trying to use typo tolerance", "intent": "error"}
+{"query_id": "Q000678", "query": "fuzzy search faq", "intent": "keywords"}
+{"query_id": "Q000679", "query": "How do I set up query expansion in VectorMart?", "intent": "howto"}
+{"query_id": "Q000680", "query": "SRCH-201 query expansion failing", "intent": "error"}
+{"query_id": "Q000681", "query": "query expansion steps", "intent": "keywords"}
+{"query_id": "Q000682", "query": "quantization setup steps for LogLens v1", "intent": "howto"}
+{"query_id": "Q000683", "query": "VEC-409 quantization failing", "intent": "error"}
+{"query_id": "Q000684", "query": "int8 LogLens v1", "intent": "keywords"}
+{"query_id": "Q000685", "query": "How do I configure NDCG in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000686", "query": "NDCG issue SRCH-601", "intent": "error"}
+{"query_id": "Q000687", "query": "NDCG faq", "intent": "keywords"}
+{"query_id": "Q000688", "query": "Help: fuzziness and typos on the API", "intent": "howto"}
+{"query_id": "Q000689", "query": "SRCH-309 fuzzy search failing", "intent": "error"}
+{"query_id": "Q000690", "query": "fuzziness and typos troubleshooting", "intent": "keywords"}
+{"query_id": "Q000691", "query": "chargeback setup steps for SecureStack v3", "intent": "howto"}
+{"query_id": "Q000692", "query": "Error BILL-401 when trying to configure chargeback", "intent": "error"}
+{"query_id": "Q000693", "query": "refund SecureStack v3", "intent": "keywords"}
+{"query_id": "Q000694", "query": "Help: page token on the CLI", "intent": "howto"}
+{"query_id": "Q000695", "query": "page token issue API-809", "intent": "error"}
+{"query_id": "Q000696", "query": "cursor pagination SecureStack v3", "intent": "keywords"}
+{"query_id": "Q000697", "query": "Help: NDCG on the CLI", "intent": "howto"}
+{"query_id": "Q000698", "query": "SRCH-609 relevance evaluation failing", "intent": "error"}
+{"query_id": "Q000699", "query": "NDCG AcmeCloud v2", "intent": "keywords"}
+{"query_id": "Q000700", "query": "Help: idempotency on the CLI", "intent": "howto"}
+{"query_id": "Q000701", "query": "duplicate requests issue API-1009", "intent": "error"}
+{"query_id": "Q000702", "query": "duplicate requests guide", "intent": "keywords"}
+{"query_id": "Q000703", "query": "SSO login setup steps for AcmeCloud v2", "intent": "howto"}
+{"query_id": "Q000704", "query": "AUTH-401 SSO login failing", "intent": "error"}
+{"query_id": "Q000705", "query": "SAML troubleshooting", "intent": "keywords"}
+{"query_id": "Q000706", "query": "Help: too many attempts on the CLI", "intent": "howto"}
+{"query_id": "Q000707", "query": "too many attempts issue AUTH-309", "intent": "error"}
+{"query_id": "Q000708", "query": "locked account faq", "intent": "keywords"}
+{"query_id": "Q000709", "query": "dedup alerts setup steps for SearchOps v2", "intent": "howto"}
+{"query_id": "Q000710", "query": "alert noise reduction issue OBS-409", "intent": "error"}
+{"query_id": "Q000711", "query": "alert fatigue steps", "intent": "keywords"}
+{"query_id": "Q000712", "query": "sentence transformer setup steps for VectorMart v2", "intent": "howto"}
+{"query_id": "Q000713", "query": "VEC-109 embeddings failing", "intent": "error"}
+{"query_id": "Q000714", "query": "sentence transformer VectorMart v2", "intent": "keywords"}
+{"query_id": "Q000715", "query": "Help: idempotency key on the web app", "intent": "howto"}
+{"query_id": "Q000716", "query": "API-1009 duplicate requests failing", "intent": "error"}
+{"query_id": "Q000717", "query": "idempotency LogLens v1", "intent": "keywords"}
+{"query_id": "Q000718", "query": "How do I enable password reset in SearchOps?", "intent": "howto"}
+{"query_id": "Q000719", "query": "AUTH-118 forgot password failing", "intent": "error"}
+{"query_id": "Q000720", "query": "forgot password guide", "intent": "keywords"}
+{"query_id": "Q000721", "query": "How do I fix webhook delivery in SecureStack?", "intent": "howto"}
+{"query_id": "Q000722", "query": "Error INT-SSL-01 when trying to run webhooks failing", "intent": "error"}
+{"query_id": "Q000723", "query": "webhook retries SecureStack v2", "intent": "keywords"}
+{"query_id": "Q000724", "query": "How do I configure least privilege in SearchOps?", "intent": "howto"}
+{"query_id": "Q000725", "query": "Error SEC-409 when trying to enable API key permissions", "intent": "error"}
+{"query_id": "Q000726", "query": "least privilege steps", "intent": "keywords"}
+{"query_id": "Q000727", "query": "How do I enable quantization in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000728", "query": "VEC-401 quantization failing", "intent": "error"}
+{"query_id": "Q000729", "query": "int8 troubleshooting", "intent": "keywords"}
+{"query_id": "Q000730", "query": "How do I configure fuzzy search in LogLens?", "intent": "howto"}
+{"query_id": "Q000731", "query": "SRCH-309 typo tolerance failing", "intent": "error"}
+{"query_id": "Q000732", "query": "fuzziness and typos LogLens v3", "intent": "keywords"}
+{"query_id": "Q000733", "query": "idempotency key setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000734", "query": "API-1009 duplicate requests failing", "intent": "error"}
+{"query_id": "Q000735", "query": "idempotency key SearchOps v3", "intent": "keywords"}
+{"query_id": "Q000736", "query": "Help: idempotency key on the mobile app", "intent": "howto"}
+{"query_id": "Q000737", "query": "duplicate requests issue API-1001", "intent": "error"}
+{"query_id": "Q000738", "query": "idempotency guide", "intent": "keywords"}
+{"query_id": "Q000739", "query": "Help: MFA on the API", "intent": "howto"}
+{"query_id": "Q000740", "query": "AUTH-201 two-factor authentication failing", "intent": "error"}
+{"query_id": "Q000741", "query": "2FA AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000742", "query": "How do I configure quantization in AcmeCloud?", "intent": "howto"}
+{"query_id": "Q000743", "query": "VEC-409 quantization failing", "intent": "error"}
+{"query_id": "Q000744", "query": "quantization AcmeCloud v3", "intent": "keywords"}
+{"query_id": "Q000745", "query": "chunking for RAG setup steps for AcmeCloud v3", "intent": "howto"}
+{"query_id": "Q000746", "query": "overlap issue VEC-209", "intent": "error"}
+{"query_id": "Q000747", "query": "document chunking configuration", "intent": "keywords"}
+{"query_id": "Q000748", "query": "NDCG setup steps for SearchOps v3", "intent": "howto"}
+{"query_id": "Q000749", "query": "Error SRCH-609 when trying to run NDCG", "intent": "error"}
+{"query_id": "Q000750", "query": "NDCG guide", "intent": "keywords"}
